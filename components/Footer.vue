@@ -1,28 +1,12 @@
 <template>
   <div id="sectionFooter">
     <div class="logoWrapper">
-      <div id="areaLogo-PRIMe">
-        <a href="https://www.tuat.ac.jp/"
+      <div id="areaLogo-KyotoU">
+        <a href="https://www.kyoto-u.ac.jp/"
           ><img
-            id="imageLogo-PRIMe"
-            alt="TUAT"
-            src="~/assets/images/logoTUAT.png"
-        /></a>
-      </div>
-      <div id="areaLogo-RIKEN">
-        <a href="http://www.yokohama.riken.jp/english/"
-          ><img
-            id="imageLogo-RIKEN"
-            alt="RIKEN"
-            src="~/assets/images/logoRIKEN.gif"
-        /></a>
-      </div>
-      <div id="areaLogo-PRIMe">
-        <a href="http://prime.psc.riken.jp/"
-          ><img
-            id="imageLogo-PRIMe"
-            alt="PRIMe"
-            src="~/assets/images/logoPRIMe.png"
+            id="imageLogo-KyotoU"
+            alt="Kyoto University"
+            src="~/assets/images/logoKyotoU.png"
         /></a>
       </div>
     </div>
@@ -62,12 +46,11 @@
   padding: 0 20px;
 }
 
-#areaLogo-RIKEN {
-  padding-right: 1.5em;
-  max-width: 62px;
+#areaLogo-KyotoU {
+  max-width: 120px;
 }
 
-#imageLogo-RIKEN {
+#imageLogo-KyotoU {
   width: 100%;
   height: auto;
 }
