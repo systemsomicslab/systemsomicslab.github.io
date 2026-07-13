@@ -27,11 +27,7 @@
       </div>
     </div>
     <div class="organizationInfo">
-      <div>
-        Tokyo University of Agriculture and Technology (TUAT) : Organization for
-        Promotion of Tenure-track System, Department of Systems Biology
-        <address>2-24-16 Nakamachi, Koganei, Tokyo 184-8588, Japan</address>
-      </div>
+      <div></div>
       <div>
         <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"
           ><img
