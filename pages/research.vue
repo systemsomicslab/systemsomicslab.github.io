@@ -47,9 +47,11 @@ export default {
 
 <style lang="sass">
 .researchContent
+  h1
+    font-size: 24px
   .iframeWrapper
     width: 100%
-    max-width: 1000px
+    max-width: 1500px
     margin: 0 auto
     padding-bottom: 48.8%
     position: relative
